@@ -3,7 +3,7 @@
 <img src="assets/header.svg" width="100%" alt="utkarsh yadav — indiedev" />
 
 <a href="https://github.com/utkarshIsAProgrammer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=700&color=00FF9C&center=true&vCenter=true&width=780&height=40&lines=%3E+booting+indiedev...;%3E+backend-first+%2F%2F+full-stack+%2F%2F+TypeScript+%26+Go;%3E+5+full-stack+projects+built+and+shipped;%3E+code+in+dark.+ship+in+silence." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=840&height=45&lines=%3E+booting+indiedev.os+v2.4...;%3E+backend-first+systems+%26+real-time+architect;%3E+6+production-grade+full-stack+projects+shipped;%3E+TypeScript+%C2%B7+Python+%C2%B7+Go+%C2%B7+Node.js+%C2%B7+React;%3E+code+in+dark.+ship+in+silence." alt="typing" />
 </a>
 
 <br/>
@@ -12,6 +12,7 @@
 <a href="https://x.com/indieDev_ut"><img src="https://img.shields.io/badge/x-@indieDev__ut-0a0e14?style=flat-square&logo=x&logoColor=00ff9c&labelColor=0a0e14&color=00ff9c" /></a>
 <a href="https://www.instagram.com/panchajanya_utkarsh/"><img src="https://img.shields.io/badge/instagram-panchajanya__utkarsh-0a0e14?style=flat-square&logo=instagram&logoColor=00ff9c&labelColor=0a0e14&color=00ff9c" /></a>
 <a href="https://www.reddit.com/user/panch_ajanya"><img src="https://img.shields.io/badge/reddit-u/panch__ajanya-0a0e14?style=flat-square&logo=reddit&logoColor=00ff9c&labelColor=0a0e14&color=00ff9c" /></a>
+<a href="mailto:utkarshprogrammer2005@gmail.com"><img src="https://img.shields.io/badge/email-contact-0a0e14?style=flat-square&logo=gmail&logoColor=00ff9c&labelColor=0a0e14&color=00ff9c" /></a>
 <br/>
 <img src="https://img.shields.io/github/followers/utkarshIsAProgrammer?style=flat-square&logo=github&logoColor=00d9ff&labelColor=0a0e14&color=00d9ff&label=followers" />
 <img src="https://img.shields.io/github/stars/utkarshIsAProgrammer?style=flat-square&logo=github&logoColor=ffb000&labelColor=0a0e14&color=ffb000&label=stars" />
@@ -29,29 +30,31 @@
 </div>
 
 ```json
-// now.json
+// manifest.json — indiedev runtime profile
 {
-  "role":     "backend-first full-stack developer",
-  "built":    ["Orbit", "Pre-Plates", "Knots", "Athenaeum", "MineSmith"],
-  "stacks":   ["MERN", "PERN", "BHC"],
-  "seeking":  "fresher full-stack / backend roles (campus placements)",
-  "motto":    "code in dark. ship in silence."
+  "engineer":   "Utkarsh Yadav (indiedev / panchajanya)",
+  "focus":      "backend-first systems, distributed architecture & real-time protocols",
+  "shipping":   ["Orbit", "Inkloom AI", "Knots.", "Athenaeum", "PrePlate", "MineSmith"],
+  "arsenal":    ["TypeScript", "Go", "Python", "Node.js", "Express", "FastAPI", "React", "PostgreSQL", "MongoDB", "Redis"],
+  "status":     "open to fresher full-stack / backend software engineering roles",
+  "philosophy": "code in dark. ship in silence. zero-bloat architecture."
 }
 ```
 
 <details>
-<summary><code>$ sudo cat /etc/secrets</code> &nbsp;🔐 <i>(click to decrypt)</i></summary>
+<summary><code>$ sudo cat /etc/secrets</code> &nbsp;🔐 <i>(click to decrypt developer lore)</i></summary>
 
 <br/>
 
 ```text
-[sudo] password for indiedev: ********
+[sudo] password for indiedev: ****************
 
- > knots is a private & secret chat app. shhh. 🤫
- > minesmith's whole stack runs on free tiers. zero-budget shipping.
- > pre-plates was built for a real place: my college canteen
- > i go by "panchajanya" too
- > i build in public on X → @indieDev_ut
+ > knots. is an anonymous zero-knowledge relayer — no accounts, client hardware crypto, server-blind.
+ > inkloom ai is a brand-governance engine with 42 e2e tests & live OWASP Top 10 security scanning.
+ > minesmith runs entirely on free tier infrastructure with dual-AI (Groq + local Ollama) failover.
+ > pre-plate was engineered for a real location: my university cafeteria to nuke rush hour queues.
+ > orbit is a massive monorepo: WebSockets, LiveKit WebRTC, 35 MongoDB models, Dexie offline PWA.
+ > i build in public and log daily engineering learnings on X → @indieDev_ut
 ```
 
 </details>
@@ -67,57 +70,91 @@
 
 <br/>
 
+<div align="center">
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `TypeScript` `JavaScript` `Python` `Go` `SQL` `HTML5` `CSS3` |
+| **Backend & Realtime** | `Node.js` `Express 5` `FastAPI` `Socket.IO` `LiveKit (WebRTC)` `BullMQ` `REST APIs` |
+| **Frontend & Spatial** | `React 19` `Astro 7` `Svelte 5` `Vite` `Tailwind CSS v4` `Three.js` `R3F` `GSAP` `Framer Motion` |
+| **Databases & Cache** | `MongoDB Atlas` `PostgreSQL` `SQLite (WAL Mode)` `Redis / Upstash REST` `Dexie.js (IndexedDB)` |
+| **Security & Cryptography**| `WebCrypto (AES-256-GCM)` `PBKDF2` `Fernet / HKDF` `Clerk Auth` `JWT Sessions` |
+| **DevOps & Cloud** | `Docker` `Render` `Vercel` `Cloudinary CDN` `Inngest` `Sentry` `Git & GitHub Actions` |
+
+</div>
+
+<br/>
+
 <!-- ───────────── PROJECTS ───────────── -->
 <img src="assets/title-projects.svg" width="100%" alt="~/projects $ ls -la" />
 
 <table>
+<!-- Row 1: Orbit & Inkloom AI -->
 <tr>
 <td width="50%" valign="top" align="center">
 <img src="assets/card-orbit.svg" alt="orbit" width="100%" /><br/>
 <a href="https://github.com/utkarshIsAProgrammer/Orbit"><img src="https://img.shields.io/badge/source-orbit-0a0e14?style=flat-square&logo=github&logoColor=00d9ff&labelColor=0a0e14&color=00d9ff" /></a>
 <img src="https://img.shields.io/github/last-commit/utkarshIsAProgrammer/Orbit?style=flat-square&label=last+commit&labelColor=0a0e14&color=00d9ff" />
+<br/>
+<sub><i>Gesture-first social network · LiveKit WebRTC · Socket.IO · 35 models · Dexie PWA</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="assets/card-pre-plates.svg" alt="pre-plates" width="100%" /><br/>
-<a href="https://github.com/utkarshIsAProgrammer?tab=repositories&q=plate"><img src="https://img.shields.io/badge/source-pre--plates-0a0e14?style=flat-square&logo=github&logoColor=ffb000&labelColor=0a0e14&color=ffb000" /></a>
+<img src="assets/card-inkloom.svg" alt="inkloom ai" width="100%" /><br/>
+<a href="https://github.com/utkarshIsAProgrammer/inkloom-ai"><img src="https://img.shields.io/badge/source-inkloom--ai-0a0e14?style=flat-square&logo=github&logoColor=00ff9c&labelColor=0a0e14&color=00ff9c" /></a>
+<img src="https://img.shields.io/badge/tests-42_passing-00ff9c?style=flat-square&labelColor=0a0e14" />
+<br/>
+<sub><i>Enterprise brand-governance engine · Gemini 2.0 · OWASP Top 10 scanner · SHA-256 certs</i></sub>
 </td>
 </tr>
+
+<!-- Row 2: Knots & Athenaeum -->
 <tr>
 <td width="50%" valign="top" align="center">
 <img src="assets/card-knots.svg" alt="knots" width="100%" /><br/>
-<a href="https://github.com/utkarshIsAProgrammer?tab=repositories&q=knots"><img src="https://img.shields.io/badge/source-knots-0a0e14?style=flat-square&logo=github&logoColor=ff2e97&labelColor=0a0e14&color=ff2e97" /></a>
+<a href="https://github.com/utkarshIsAProgrammer/knots."><img src="https://img.shields.io/badge/source-knots.-0a0e14?style=flat-square&logo=github&logoColor=ff2e97&labelColor=0a0e14&color=ff2e97" /></a>
+<img src="https://img.shields.io/github/last-commit/utkarshIsAProgrammer/knots.?style=flat-square&label=last+commit&labelColor=0a0e14&color=ff2e97" />
+<br/>
+<sub><i>Sovereign zero-knowledge anonymous relayer · WebCrypto AES-256-GCM · PBKDF2 · Stealth mode</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
 <img src="assets/card-athenaeum.svg" alt="athenaeum" width="100%" /><br/>
-<a href="https://github.com/utkarshIsAProgrammer?tab=repositories&q=athenaeum"><img src="https://img.shields.io/badge/source-athenaeum-0a0e14?style=flat-square&logo=github&logoColor=a371f7&labelColor=0a0e14&color=a371f7" /></a>
+<a href="https://github.com/utkarshIsAProgrammer/the-athenaeum"><img src="https://img.shields.io/badge/source-athenaeum-0a0e14?style=flat-square&logo=github&logoColor=a371f7&labelColor=0a0e14&color=a371f7" /></a>
+<img src="https://img.shields.io/github/last-commit/utkarshIsAProgrammer/the-athenaeum?style=flat-square&label=last+commit&labelColor=0a0e14&color=a371f7" />
+<br/>
+<sub><i>Ad-free news reader & clustering · FastAPI · Astro 7 · Svelte 5 · Fernet BYOK AI</i></sub>
 </td>
 </tr>
+
+<!-- Row 3: MineSmith & Pre-Plates -->
 <tr>
 <td width="50%" valign="top" align="center">
 <img src="assets/card-minesmith.svg" alt="minesmith" width="100%" /><br/>
 <a href="https://github.com/utkarshIsAProgrammer/minesmith"><img src="https://img.shields.io/badge/source-minesmith-0a0e14?style=flat-square&logo=github&logoColor=00ff9c&labelColor=0a0e14&color=00ff9c" /></a>
 <a href="https://minesmith-tau.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6_live_demo-minesmith-0a0e14?style=flat-square&logo=vercel&logoColor=00ff9c&labelColor=0a0e14&color=00ff9c" /></a>
 <img src="https://img.shields.io/github/last-commit/utkarshIsAProgrammer/minesmith?style=flat-square&label=last+commit&labelColor=0a0e14&color=00ff9c" />
+<br/>
+<sub><i>AI Minecraft modpack architect · Modrinth API v2 · Groq + Ollama Qwen failover · Zip packager</i></sub>
 </td>
-<td width="50%" valign="middle" align="center">
-<sub><code>$ git clone more-ideas</code><br/>🚧 next one loading...</sub>
+<td width="50%" valign="top" align="center">
+<img src="assets/card-pre-plates.svg" alt="pre-plates" width="100%" /><br/>
+<a href="https://github.com/utkarshIsAProgrammer/pre-plates"><img src="https://img.shields.io/badge/source-pre--plates-0a0e14?style=flat-square&logo=github&logoColor=ffb000&labelColor=0a0e14&color=ffb000" /></a>
+<img src="https://img.shields.io/github/last-commit/utkarshIsAProgrammer/pre-plates?style=flat-square&label=last+commit&labelColor=0a0e14&color=ffb000" />
+<br/>
+<sub><i>Smart campus dining pre-order PWA · Amount-locked UPI QR · Web Push · Upstash Redis cache</i></sub>
 </td>
 </tr>
 </table>
 
-### ⚙️ orbit — feature map
+### ⚙️ systems architecture & taxonomy
 
 ```text
- orbit/
- ├── posts · feed · discovery
- ├── social interactions · notifications
- ├── chat
- ├── communities
- ├── ephemeral stories
- ├── audio rooms
- ├── reels · collections
- ├── gamification (streaks)
- └── stack: TypeScript · Node · Express · MongoDB · Redis · BullMQ
+ ~/engineering/
+ ├── orbit/          → Real-time spatial social network (React 19 · Node · Socket.IO · LiveKit · Dexie PWA)
+ ├── inkloom-ai/     → Brand-governance platform (FastAPI · React · Gemini 2.0 · 42 Tests · OWASP Scanner)
+ ├── knots./         → Zero-knowledge anonymous relayer (WebCrypto AES-256-GCM · PBKDF2 · Cloud Shredder)
+ ├── athenaeum/      → Privacy-preserving news aggregator (FastAPI · Astro 7 · Svelte 5 · Reader Mode · Fernet)
+ ├── minesmith/      → AI modpack builder (React · Express · Modrinth v2 · Groq & Ollama Fallback · Zip Streamer)
+ └── pre-plates/     → Campus dining pre-order ecosystem (React 19 PWA · Express 5 · Clerk · Web Push · Redis)
 ```
 
 <br/>
@@ -146,13 +183,19 @@
 <img src="assets/title-connect.svg" width="100%" alt="~/connect $ ping utkarsh" />
 
 ```bash
-$ ping utkarsh
-64 bytes from utkarsh: status=open_to_fresher_roles  collab=always  time=<1 day
+$ ping -c 3 utkarsh.dev
+PING utkarsh.dev (127.0.0.1): 56 data bytes
+64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.038 ms  status=READY_FOR_HIRE
+64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.042 ms  role=BACKEND_/_FULLSTACK_ENGINEER
+64 bytes from 127.0.0.1: icmp_seq=3 ttl=64 time=0.040 ms  collab=ALWAYS_OPEN
+--- utkarsh.dev ping statistics ---
+3 packets transmitted, 3 packets received, 0.0% packet loss, rtt min/avg/max = 0.038/0.040/0.042 ms
 ```
 
 <div align="center">
-<a href="https://www.linkedin.com/in/utkarsh-yadav-62b974374/"><img src="https://img.shields.io/badge/💼_hire_me-linkedin-0a0e14?style=for-the-badge&labelColor=0a0e14&color=00ff9c" /></a>
-<a href="https://x.com/indieDev_ut"><img src="https://img.shields.io/badge/📡_build_in_public-x-0a0e14?style=for-the-badge&labelColor=0a0e14&color=00d9ff" /></a>
+<a href="https://www.linkedin.com/in/utkarsh-yadav-62b974374/"><img src="https://img.shields.io/badge/💼_hire_me-linkedin-0a0e14?style=for-the-badge&logo=linkedin&labelColor=0a0e14&color=00ff9c" /></a>
+<a href="https://x.com/indieDev_ut"><img src="https://img.shields.io/badge/📡_build_in_public-x-0a0e14?style=for-the-badge&logo=x&labelColor=0a0e14&color=00d9ff" /></a>
+<a href="mailto:utkarshprogrammer2005@gmail.com"><img src="https://img.shields.io/badge/📨_direct_mail-gmail-0a0e14?style=for-the-badge&logo=gmail&labelColor=0a0e14&color=ffb000" /></a>
 
 <img src="assets/footer.svg" width="100%" alt="exit 0" />
 </div>
