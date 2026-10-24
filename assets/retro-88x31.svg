@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 72" width="880" height="72" role="img" aria-label="90s web 1.0 88x31 button strip"><title>90s retro buttons</title>
+<style>
+text{font-family:'Courier New',Courier,monospace;font-weight:bold;letter-spacing:-0.5px}
+.blink{animation:blink 1s steps(1) infinite}@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+.sweep{animation:sweep 3s ease-in-out infinite}@keyframes sweep{0%,100%{filter:brightness(1)}50%{filter:brightness(1.25)}}
+</style>
+<defs>
+  <filter id="btn3d" x="0" y="0" width="100%" height="100%">
+    <feDropShadow dx="1" dy="1" stdDeviation="0" flood-color="#000"/>
+  </filter>
+</defs>
+
+<!-- Background Strip -->
+<rect width="880" height="72" fill="#000000" rx="4"/>
+
+<!-- Button 1: Netscape Now 3.0 (x:15 y:5 w:95 h:31) -->
+<g transform="translate(15, 6)">
+  <rect width="95" height="30" fill="#000050" stroke="#808080" stroke-width="1"/>
+  <rect x="1" y="1" width="93" height="1" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="1" height="28" fill="#FFFFFF"/>
+  <rect x="94" y="1" width="1" height="28" fill="#000000"/>
+  <rect x="1" y="29" width="94" height="1" fill="#000000"/>
+  <!-- N logo -->
+  <circle cx="16" cy="15" r="10" fill="#008080"/>
+  <text x="11" y="20" font-size="14" fill="#FFFFFF">N</text>
+  <text x="32" y="13" font-size="8.5" fill="#00FF00">NETSCAPE</text>
+  <text x="32" y="23" font-size="9" fill="#FFFFFF" class="blink">NOW 3.0</text>
+</g>
+
+<!-- Button 2: Notepad Coded (x:125 y:6) -->
+<g transform="translate(125, 6)">
+  <rect width="95" height="30" fill="#C0C0C0" stroke="#000000"/>
+  <rect x="1" y="1" width="93" height="1" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="1" height="28" fill="#FFFFFF"/>
+  <rect x="94" y="1" width="1" height="28" fill="#404040"/>
+  <rect x="1" y="29" width="94" height="1" fill="#404040"/>
+  <!-- Notepad Icon -->
+  <rect x="6" y="5" width="16" height="20" fill="#FFFFE0" stroke="#000080"/>
+  <line x1="8" y1="9" x2="18" y2="9" stroke="#000080" stroke-width="1.5"/>
+  <line x1="8" y1="13" x2="18" y2="13" stroke="#000080" stroke-width="1.5"/>
+  <line x1="8" y1="17" x2="15" y2="17" stroke="#000080" stroke-width="1.5"/>
+  <text x="27" y="13" font-size="8" fill="#000080">MADE WITH</text>
+  <text x="27" y="23" font-size="9" font-weight="900" fill="#800000">NOTEPAD</text>
+</g>
+
+<!-- Button 3: Powered by Linux / Tux (x:235 y:6) -->
+<g transform="translate(235, 6)">
+  <rect width="95" height="30" fill="#000000" stroke="#FFFF00"/>
+  <rect x="1" y="1" width="93" height="1" fill="#FFFF00"/>
+  <rect x="1" y="1" width="1" height="28" fill="#FFFF00"/>
+  <!-- Tux Mini -->
+  <circle cx="16" cy="14" r="8" fill="#FFFFFF"/>
+  <circle cx="16" cy="12" r="5" fill="#000000"/>
+  <circle cx="14" cy="11" r="1.5" fill="#FFFFFF"/>
+  <circle cx="18" cy="11" r="1.5" fill="#FFFFFF"/>
+  <polygon points="15,13 17,13 16,16" fill="#FFA500"/>
+  <text x="29" y="13" font-size="8" fill="#00FF9C">POWERED BY</text>
+  <text x="29" y="24" font-size="10" fill="#FFFF00">LINUX</text>
+</g>
+
+<!-- Button 4: 56k Dial-Up / V.90 (x:345 y:6) -->
+<g transform="translate(345, 6)">
+  <rect width="95" height="30" fill="#003300" stroke="#00FF00"/>
+  <rect x="1" y="1" width="93" height="1" fill="#00FF66"/>
+  <rect x="1" y="1" width="1" height="28" fill="#00FF66"/>
+  <!-- Modem LED Lights -->
+  <circle cx="12" cy="15" r="3" fill="#FF0000" class="blink"/>
+  <circle cx="20" cy="15" r="3" fill="#00FF00"/>
+  <text x="29" y="13" font-size="8" fill="#FFFF00">56K MODEM</text>
+  <text x="29" y="24" font-size="9" fill="#00FF66">V.90 CONNECT</text>
+</g>
+
+<!-- Button 5: Y2K Compliant (x:455 y:6) -->
+<g transform="translate(455, 6)">
+  <rect width="95" height="30" fill="#800000" stroke="#FFFFFF"/>
+  <rect x="1" y="1" width="93" height="1" fill="#FF8080"/>
+  <rect x="1" y="1" width="1" height="28" fill="#FF8080"/>
+  <polygon points="14,6 22,15 14,24 6,15" fill="#FFFF00"/>
+  <text x="11" y="18" font-size="9" font-weight="900" fill="#000000">!</text>
+  <text x="28" y="14" font-size="10" font-weight="900" fill="#FFFF00">Y2K OK</text>
+  <text x="28" y="24" font-size="7.5" fill="#FFFFFF">COMPLIANT</text>
+</g>
+
+<!-- Button 6: Valid HTML 3.2 (x:565 y:6) -->
+<g transform="translate(565, 6)">
+  <rect width="95" height="30" fill="#004080" stroke="#00FFFF"/>
+  <rect x="1" y="1" width="93" height="1" fill="#80C0FF"/>
+  <rect x="1" y="1" width="1" height="28" fill="#80C0FF"/>
+  <text x="7" y="14" font-size="8.5" fill="#FFFFFF">&lt;HTML 3.2&gt;</text>
+  <text x="7" y="24" font-size="9" font-weight="900" fill="#00FFFF">W3C CHECKED</text>
+</g>
+
+<!-- Button 7: No Spyware / Cookies Free (x:675 y:6) -->
+<g transform="translate(675, 6)">
+  <rect width="95" height="30" fill="#300040" stroke="#FF00FF"/>
+  <rect x="1" y="1" width="93" height="1" fill="#FF80FF"/>
+  <rect x="1" y="1" width="1" height="28" fill="#FF80FF"/>
+  <text x="6" y="13" font-size="8" fill="#FFFF00">ZERO TRACKING</text>
+  <text x="6" y="24" font-size="9" fill="#00FFFF">NO COOKIES</text>
+</g>
+
+<!-- Button 8: 800x600 Best Viewed (x:785 y:6) -->
+<g transform="translate(775, 6)">
+  <rect width="95" height="30" fill="#202020" stroke="#00FF9C"/>
+  <rect x="1" y="1" width="93" height="1" fill="#606060"/>
+  <rect x="1" y="1" width="1" height="28" fill="#606060"/>
+  <!-- CRT Monitor Icon -->
+  <rect x="6" y="7" width="16" height="12" rx="1" fill="#000000" stroke="#00FF9C"/>
+  <rect x="10" y="19" width="8" height="4" fill="#00FF9C"/>
+  <text x="27" y="13" font-size="7.5" fill="#C0C0C0">BEST VIEWED</text>
+  <text x="27" y="23" font-size="8.5" fill="#00FF9C">800 x 600</text>
+</g>
+
+<!-- Bottom Marquee Ticker -->
+<g transform="translate(15, 42)">
+  <rect width="855" height="24" fill="#0a0e14" stroke="#00ff9c" stroke-width="1"/>
+  <!-- Retro Web Counter -->
+  <g transform="translate(6, 4)">
+    <rect width="90" height="16" fill="#000000" stroke="#404040"/>
+    <text x="4" y="12" font-size="11" fill="#FF0000" font-family="'Courier New', monospace">0</text>
+    <text x="18" y="12" font-size="11" fill="#FF0000" font-family="'Courier New', monospace">0</text>
+    <text x="32" y="12" font-size="11" fill="#00FF00" font-family="'Courier New', monospace">4</text>
+    <text x="46" y="12" font-size="11" fill="#00FF00" font-family="'Courier New', monospace">2</text>
+    <text x="60" y="12" font-size="11" fill="#00FF00" font-family="'Courier New', monospace">8</text>
+    <text x="74" y="12" font-size="11" fill="#FFFF00" font-family="'Courier New', monospace">9</text>
+  </g>
+  <text x="110" y="16" font-size="10.5" fill="#00FF9C">
+    [ BBS NODE #1 ONLINE ] · SPEED: 57,600 BAUD · SYSOP: UTKARSH YADAV · ALL PROTOCOLS VERIFIED · NO JS MONSTERS · PURE 90S WAREZ
+  </text>
+</g>
+</svg>
