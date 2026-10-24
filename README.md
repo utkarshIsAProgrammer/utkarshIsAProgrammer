@@ -3,7 +3,7 @@
 <img src="assets/header.svg" width="100%" alt="utkarsh yadav — indiedev" />
 
 <a href="https://github.com/utkarshIsAProgrammer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=700&color=00FF9C&center=true&vCenter=true&width=780&height=40&lines=%3E+booting+indiedev...;%3E+backend-first+%2F%2F+full-stack+%2F%2F+TypeScript+%26+Go;%3E+building+Orbit%3A+a+social+app+with+an+AI+world+inside;%3E+code+in+dark.+ship+in+silence." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=700&color=00FF9C&center=true&vCenter=true&width=780&height=40&lines=%3E+booting+indiedev...;%3E+backend-first+%2F%2F+full-stack+%2F%2F+TypeScript+%26+Go;%3E+5+full-stack+projects+built+and+shipped;%3E+code+in+dark.+ship+in+silence." alt="typing" />
 </a>
 
 <br/>
@@ -31,11 +31,11 @@
 ```json
 // now.json
 {
-  "building":     "Orbit — social app with a sandboxed AI world",
-  "contributing": "SFCollab (volunteer, live product development)",
-  "learning":     "Go  →  golang_2.0",
-  "seeking":      "fresher full-stack / backend roles (campus placements)",
-  "motto":        "code in dark. ship in silence."
+  "role":     "backend-first full-stack developer",
+  "built":    ["Orbit", "Pre-Plates", "Knots", "Athenaeum", "MineSmith"],
+  "stacks":   ["MERN", "PERN", "BHC"],
+  "seeking":  "fresher full-stack / backend roles (campus placements)",
+  "motto":    "code in dark. ship in silence."
 }
 ```
 
@@ -47,9 +47,9 @@
 ```text
 [sudo] password for indiedev: ********
 
- > i built my own vs code dark theme: indiedev-vibe-1
- > orbit's AI agents run on local LLMs, so the simulation costs $0 to run
+ > knots is a private & secret chat app. shhh. 🤫
  > minesmith's whole stack runs on free tiers. zero-budget shipping.
+ > pre-plates was built for a real place: my college canteen
  > i go by "panchajanya" too
  > i build in public on X → @indieDev_ut
 ```
@@ -70,38 +70,54 @@
 <!-- ───────────── PROJECTS ───────────── -->
 <img src="assets/title-projects.svg" width="100%" alt="~/projects $ ls -la" />
 
-<div align="center">
-<img src="assets/projects.svg" width="100%" alt="projects" />
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<img src="assets/card-orbit.svg" alt="orbit" width="100%" /><br/>
+<a href="https://github.com/utkarshIsAProgrammer/Orbit"><img src="https://img.shields.io/badge/source-orbit-0a0e14?style=flat-square&logo=github&logoColor=00d9ff&labelColor=0a0e14&color=00d9ff" /></a>
+<img src="https://img.shields.io/github/last-commit/utkarshIsAProgrammer/Orbit?style=flat-square&label=last+commit&labelColor=0a0e14&color=00d9ff" />
+</td>
+<td width="50%" valign="top" align="center">
+<img src="assets/card-pre-plates.svg" alt="pre-plates" width="100%" /><br/>
+<a href="https://github.com/utkarshIsAProgrammer?tab=repositories&q=plate"><img src="https://img.shields.io/badge/source-pre--plates-0a0e14?style=flat-square&logo=github&logoColor=ffb000&labelColor=0a0e14&color=ffb000" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<img src="assets/card-knots.svg" alt="knots" width="100%" /><br/>
+<a href="https://github.com/utkarshIsAProgrammer?tab=repositories&q=knots"><img src="https://img.shields.io/badge/source-knots-0a0e14?style=flat-square&logo=github&logoColor=ff2e97&labelColor=0a0e14&color=ff2e97" /></a>
+</td>
+<td width="50%" valign="top" align="center">
+<img src="assets/card-athenaeum.svg" alt="athenaeum" width="100%" /><br/>
+<a href="https://github.com/utkarshIsAProgrammer?tab=repositories&q=athenaeum"><img src="https://img.shields.io/badge/source-athenaeum-0a0e14?style=flat-square&logo=github&logoColor=a371f7&labelColor=0a0e14&color=a371f7" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<img src="assets/card-minesmith.svg" alt="minesmith" width="100%" /><br/>
+<a href="https://github.com/utkarshIsAProgrammer/minesmith"><img src="https://img.shields.io/badge/source-minesmith-0a0e14?style=flat-square&logo=github&logoColor=00ff9c&labelColor=0a0e14&color=00ff9c" /></a>
+<a href="https://minesmith-tau.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6_live_demo-minesmith-0a0e14?style=flat-square&logo=vercel&logoColor=00ff9c&labelColor=0a0e14&color=00ff9c" /></a>
+<img src="https://img.shields.io/github/last-commit/utkarshIsAProgrammer/minesmith?style=flat-square&label=last+commit&labelColor=0a0e14&color=00ff9c" />
+</td>
+<td width="50%" valign="middle" align="center">
+<sub><code>$ git clone more-ideas</code><br/>🚧 next one loading...</sub>
+</td>
+</tr>
+</table>
 
-<a href="https://github.com/utkarshIsAProgrammer/Orbit"><img src="https://img.shields.io/badge/orbit-source-0a0e14?style=flat-square&logo=github&logoColor=ffb000&labelColor=0a0e14&color=ffb000" /></a>
-<a href="https://github.com/utkarshIsAProgrammer/minesmith"><img src="https://img.shields.io/badge/minesmith-source-0a0e14?style=flat-square&logo=github&logoColor=00ff9c&labelColor=0a0e14&color=00ff9c" /></a>
-<a href="https://minesmith-tau.vercel.app"><img src="https://img.shields.io/badge/minesmith-live_demo-0a0e14?style=flat-square&logo=vercel&logoColor=00ff9c&labelColor=0a0e14&color=00ff9c" /></a>
-<a href="https://github.com/utkarshIsAProgrammer/indieDev---vibe-1"><img src="https://img.shields.io/badge/indiedev--vibe--1-theme-0a0e14?style=flat-square&logo=visualstudiocode&logoColor=ff2e97&labelColor=0a0e14&color=ff2e97" /></a>
-<a href="https://github.com/utkarshIsAProgrammer/golang_2.0"><img src="https://img.shields.io/badge/golang__2.0-notes-0a0e14?style=flat-square&logo=go&logoColor=a371f7&labelColor=0a0e14&color=a371f7" /></a>
-
-<br/>
-
-<img src="https://img.shields.io/github/last-commit/utkarshIsAProgrammer/Orbit?style=flat-square&label=orbit+last+commit&labelColor=0a0e14&color=ffb000" />
-<img src="https://img.shields.io/github/last-commit/utkarshIsAProgrammer/minesmith?style=flat-square&label=minesmith+last+commit&labelColor=0a0e14&color=00ff9c" />
-<img src="https://img.shields.io/github/last-commit/utkarshIsAProgrammer/golang_2.0?style=flat-square&label=golang_2.0+last+commit&labelColor=0a0e14&color=a371f7" />
-</div>
-
-### 🧬 orbit's AI world — architecture
+### ⚙️ orbit — feature map
 
 ```text
- ┌──────────────┐   tick   ┌────────────────────┐   prompt   ┌───────────────┐
- │  BullMQ      │ ───────► │  orbit-agent-runner│ ─────────► │  Ollama (LLM) │
- │  + Redis     │          │  (Node tick loop)  │ ◄───────── │  local model  │
- └──────────────┘          └─────────┬──────────┘   action   └───────────────┘
-                                     │ per-agent JWT
-                                     ▼
-                          ┌────────────────────┐        ┌──────────────────────────┐
-                          │   Orbit REST API   │ ─────► │ MongoDB                  │
-                          │  (Node + Express)  │        │ posts · relationships ·  │
-                          └─────────┬──────────┘        │ agentMemories            │
-                                    │                   └──────────────────────────┘
-                                    ▼
-                        👥 humans can step into the AI World
+ orbit/
+ ├── posts · feed · discovery
+ ├── social interactions · notifications
+ ├── chat
+ ├── communities
+ ├── ephemeral stories
+ ├── audio rooms
+ ├── reels · collections
+ ├── gamification (streaks)
+ └── stack: TypeScript · Node · Express · MongoDB · Redis · BullMQ
 ```
 
 <br/>
